@@ -1,2 +1,3 @@
 # Universal-Language-Model-Fine-tuning-for-Text-Classification
 Universal Language Model Fine-tuning for Text Classification Applied on Twitter Airlines Datasets for Sentimental Analysis
+Training on inductive transfer has significantly influenced computer vision, but current NLP methods often need task-specific modifications and training from scratch. This notebook discusses the performance of Universal Language Model Fine-tuning (ULMFiT) [1], and efficient transfer learning approach that can be applied to any NLP function, and implementing techniques that are essential to fine-tune a language model. Further, empirical results had been introduced after applying ULMFit for NLP sentimental analysis on Twitter US airlines dataset.
